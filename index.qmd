@@ -7,5 +7,7 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1
+
 ```
+
+![](images/8808bbf93bbb926c9dc5ffd517828669.jpg)1 + 1
